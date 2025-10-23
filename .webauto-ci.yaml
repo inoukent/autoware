@@ -147,7 +147,7 @@ simulations:
         mounts:
         - volume: model
       volumes:
-        - name: model
+      - name: model
         path: /home/autoware/autoware_data/lidar_centerpoint
         preserve_original_files: true
 
