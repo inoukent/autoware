@@ -76,7 +76,7 @@ artifacts:
               - src/**/*
               - "!src/ecu_system_setup/**"
           incremental_build:
-            enabled: true
+            enabled: false
         - name: ecu-system-setup
           user: autoware
           exec: ./.webauto-ci/main/ecu-system-setup/run.sh
