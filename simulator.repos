@@ -10,7 +10,7 @@ repositories:
   simulator/perception_eval:
     type: git
     url: https://github.com/tier4/autoware_perception_evaluation.git
-    version: 4a29c0fed20f56b3c860bfef19db346f25a1487e
+    version: f35dae9d40216a131d1d717b81db4d1a13be3163
   simulator/vendor/ros2_numpy:
     type: git
     url: https://github.com/Box-Robotics/ros2_numpy.git
